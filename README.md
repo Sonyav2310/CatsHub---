@@ -1,9 +1,10 @@
 # CatsHub 
 Учебный репозиторий, посвящённый котам.
-![Cat](https://github.com/user-attachments/assets/1741d39a-17f9-4f9d-8520-5957d7ec179e)
+
 Здесь вы найдёте:
 - факты о котах
 - юмор
 - изображения
 - эксперименты с Git-ветками
 
+![Cat](https://github.com/user-attachments/assets/1741d39a-17f9-4f9d-8520-5957d7ec179e)
